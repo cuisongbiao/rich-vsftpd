@@ -1,4 +1,4 @@
-# fauria/vsftpd
+# richinfoai/vsftpd
 
 This Docker container implements a vsftpd server, with the following features:
 
